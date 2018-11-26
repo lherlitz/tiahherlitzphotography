@@ -885,6 +885,22 @@
           "_anchor": "image2-m"
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Start Square Appointments Embed Code -->{JS_CODE_0}<!-- End Square Appointments EmbedCode -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-l",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src='https://squareup.com/appointments/buyer/widget/4747c4a9-3e6e-4704-b54b-a3794c0755d7/DTRT112GQ9124.js'></script>"
+          ]
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -949,22 +965,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Start Square Appointments Embed Code -->{JS_CODE_0}<!-- End Square Appointments EmbedCode -->",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-l",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src='https://squareup.com/appointments/buyer/widget/4747c4a9-3e6e-4704-b54b-a3794c0755d7/DTRT112GQ9124.js'></script>"
-          ]
         },
         {
           "_styles": {

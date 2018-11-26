@@ -1971,6 +1971,12 @@ body {
     width: 100% !important;
   }
 }
+#custom-html-l {
+  /* Type valid CSS here */
+}
+#custom-html-l .my-image {
+  width: 100%;
+}
 .cid-r5rG2DFEGJ {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2009,12 +2015,6 @@ body {
     width: 100% !important;
     height: auto !important;
   }
-}
-#custom-html-l {
-  /* Type valid CSS here */
-}
-#custom-html-l .my-image {
-  width: 100%;
 }
 .cid-r5rxXA69oR {
   padding-top: 90px;
