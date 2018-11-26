@@ -2048,9 +2048,9 @@ body {
   color: #ffffff;
 }
 .cid-rawcWjPsaD {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(0deg, #0f7699, #d2b2a0);
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background: linear-gradient(0deg, #0f7699, #0f7699);
 }
 .cid-rawcWjPsaD .mbr-iconfont-social {
   font-size: 32px;
@@ -2060,5 +2060,5 @@ body {
   text-decoration: none;
 }
 .cid-rawcWjPsaD H2 {
-  color: #232323;
+  color: #ffffff;
 }
