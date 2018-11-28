@@ -1948,6 +1948,30 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-raINMuUWAE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-raINMuUWAE .line {
+  background-color: #d2b2a0;
+  color: #d2b2a0;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-raINMuUWAE .section-text {
+  padding: 2rem 0;
+  text-align: center;
+}
+.cid-raINMuUWAE .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-raINMuUWAE .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-ratzCrcB8g {
   background: #ffffff;
 }
