@@ -671,13 +671,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-2611-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2611-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rothman-brynn-is-3-rothman2014-14-1400x933.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rothman-brynn-is-3-rothman2014-14-1400x933-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -710,13 +710,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-2550-copy-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2550-copy-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logston-logstonkiddos-8-1400x1027.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logston-logstonkiddos-8-1400x1027-800x538.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
