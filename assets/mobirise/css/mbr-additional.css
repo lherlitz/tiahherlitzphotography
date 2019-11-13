@@ -2555,12 +2555,13 @@ body {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rHICzZieCw {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rHICzZieCw .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
 .cid-rHICzZieCw .btn {
   margin: 0 0 .5rem 0;
