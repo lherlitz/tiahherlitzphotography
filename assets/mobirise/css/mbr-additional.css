@@ -2554,6 +2554,17 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rHICzZieCw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rHICzZieCw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rHICzZieCw .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rklJlUOEX6 {
   padding-top: 90px;
   padding-bottom: 90px;
