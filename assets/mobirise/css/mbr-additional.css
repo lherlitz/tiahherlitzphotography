@@ -1837,10 +1837,18 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s5paEJXwrZ {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s5paEJXwrZ .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-s5p4WzeQTx {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-s5p4WzeQTx .image-block {
   margin: auto;
@@ -1859,8 +1867,8 @@ body {
   }
 }
 .cid-s5p4XJlOIf {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-r5sasKd7P4 {
