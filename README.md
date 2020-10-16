@@ -1,2 +1,0 @@
-# tiahherlitzphotography
-GitHub Pages
